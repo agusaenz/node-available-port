@@ -16,6 +16,8 @@ This repository contains a simple utility to find an available port on your mach
     ```
 
 2. Dependencies:
+    ```This tool does not use any dependency!
+    ```
 
 ## Usage
 
